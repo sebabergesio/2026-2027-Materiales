@@ -1,0 +1,9 @@
+# Ignore all files in Materias/ folders
+Materias/**/*
+*.md
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
